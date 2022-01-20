@@ -1,0 +1,8 @@
+{
+  apiKey: "AIzaSyBdwRjkcK4Ke9oJOklu1ex37qGyzg29z1A",
+  authDomain: "crwn-db-74109.firebaseapp.com",
+  projectId: "crwn-db-74109",
+  storageBucket: "crwn-db-74109.appspot.com",
+  messagingSenderId: "167149463981",
+  appId: "1:167149463981:web:90a9a07715baabe0205924"
+};
